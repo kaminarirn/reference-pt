@@ -32,7 +32,7 @@ string.lastIndexOf(string2, desde)
 
 `string2`: a string a ser procurada - char ou String
 
-`from`: a posição a partir da qual iniciar a busca (do final para o começo)
+`desde`: a posição a partir da qual iniciar a busca (do final para o começo)
 
 
 [float]
